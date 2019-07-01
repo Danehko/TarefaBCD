@@ -2,12 +2,15 @@
 
 ## Aluno 02
 
-###Como configurar username e email no git
+### Como configurar username e email no git
 
 ```
 git config --global user.name "Nome Sobrenome"
 git config --global user.email "seu@email.com"
 ```
+### Escrevendo latex
+
+LaTeX é um sistema de preparação de documentos, uma versão especial do programa TeX de Donald Knuth. TeX é um sofisticado programa projetado para produzir um texto digitado de alta qualidade especialmente para caracteres matemáticos.
 
 ## Aluno 01
 
