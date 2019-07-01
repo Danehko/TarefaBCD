@@ -1,6 +1,6 @@
 # Aula de Git
 
-## Aluno 01
+## Daniel
 No diretório home do usuário estão as configurações globais do git no arquivo .gitconfig
 apelidos para comandos.
  ́
