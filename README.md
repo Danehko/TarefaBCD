@@ -19,3 +19,7 @@ Util para comandos com muitos argumentos
 '''
 tree = log --oneline --graph --decorate --all
 '''
+
+### Escreve com Markdown
+
+Pensando mais a longo prazo, a execução dos pontos do programa nos obriga à análise das condições financeiras e administrativas exigidas. É claro que a complexidade dos estudos efetuados possibilita uma melhor visão global das diretrizes de desenvolvimento para o futuro. A prática cotidiana prova que o aumento do diálogo entre os diferentes setores produtivos estende o alcance e a importância dos paradigmas corporativos. 
